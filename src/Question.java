@@ -73,5 +73,6 @@ public class Question {
 
         // Q10. 매직 넘버 제거하기
         printCoffeePrice(1);
+        printCoffeePrice(2);
     }
 }

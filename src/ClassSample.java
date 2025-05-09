@@ -1,4 +1,4 @@
-class Animal {
+class Animal01 {
     // Class에서 가장 중요한 부분은 객체 변수의 값이 독립적으로 유지가 됨.
 
     String name;
